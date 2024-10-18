@@ -1,10 +1,9 @@
 <h2 align="left">Hi, I'm Thành Phạm 👋</h2>
 
-I'm a FullStack Developer with experience in Spring Boot and Angular. I’m passionate about exploring new technologies and always eager to learn and grow in different areas of software development. Whether it's backend architecture or front-end design, I enjoy the challenge of creating efficient and scalable applications.
+I'm a FullStack Developer with expertise in Spring Boot and Angular. Passionate about exploring new technologies, I enjoy building scalable applications and continuously improving my skills.
 
-In my repositories, you’ll find projects and experiments that reflect my curiosity and drive to continuously improve my skills. I'm always open to collaboration and discussions about new ideas and innovations.
+Feel free to check out my projects and connect!
 
-Feel free to explore my work or connect with me if you'd like to share knowledge or work on exciting projects together!
 ###
 
 <div align="center">
